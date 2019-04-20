@@ -15,5 +15,5 @@ We give to our robot a reward R proportional to the distance the robot moved aft
 
 ## Material: 
 Arduino Due , 2 servo motors , toy-vehicle body
-(Final system): 
+ 
 ![alt text](https://github.com/YacineBenameur/Q-learning-self-crawling-robot/blob/master/Image.PNG "Robot")
